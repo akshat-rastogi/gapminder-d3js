@@ -1,19 +1,10 @@
-COMP40610 Information Visualization Assignment : Channelling Hans!
+##Information Visualization Assignment : Channelling Hans!
 
-URL: https://information-visualization.herokuapp.com/chanelling-hans.html
-
-
-Submitted By: Akshat Rastogi (17200430)
-			  Shyam Mohan Kizhakekara (17200802)
-
-Submission Date: 25 Nov 2017
-=================================================================================
-
-Mandatory Features Included:
+Recreated Features:
 -----------------------------
-(1). Bar chart representing the number of countries per region.
-(2). Bar chart representing the number of countries with each government type.
-(3). The selection of a specific country from the provided drop-down list, gives a static visualization depicting the trace of motion of the bubble representing that country.
+1. Bar chart representing the number of countries per region.
+2. Bar chart representing the number of countries with each government type.
+3. The selection of a specific country from the provided drop-down list, gives a static visualization depicting the trace of motion of the bubble representing that country.
 	- When a viewer uses this control, the remaining controls to jump to the visualization of a specific year and the Play/Pause/Stop buttons would be disabled.
 	- The viewer must select the default value “All Countries” from the drop-down list explicitly, to re-enable all the disabled controls.
 NOTE:
@@ -47,6 +38,6 @@ Extra Features Included:
 
 References:
 ------------
-[1] https://jsfiddle.net/umaar/FV5tm/
-[2] https://www.w3schools.com/howto/howto_js_rangeslider.asp
-[3] https://bl.ocks.org/
+>[1] https://jsfiddle.net/umaar/FV5tm/
+>[2] https://www.w3schools.com/howto/howto_js_rangeslider.asp
+>[3] https://bl.ocks.org/
