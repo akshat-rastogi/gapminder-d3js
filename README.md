@@ -13,11 +13,11 @@ Steps to run project:
 ------------
 
 **Step 1:** Clone the Project or Download the project
-To Clone Project:
+- To Clone Project:
 ``` git clone git@gitlab.com:akshat.rastogi/gapminder-d3js.git
 ```
 
-Download using this [link](https://gitlab.com/akshat.rastogi/gapminder-d3js.git)
+- Download using this [link](https://gitlab.com/akshat.rastogi/gapminder-d3js.git)
 
 
 **Step 2:** Goto the directory and start localhost server to avoid cross origin error
