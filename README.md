@@ -1,4 +1,4 @@
-##Information Visualization Assignment : Channelling Hans!
+## Information Visualization Assignment : Channelling Hans!
 
 Recreated Features:
 -----------------------------
