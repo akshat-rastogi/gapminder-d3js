@@ -1,6 +1,40 @@
 ## Information Visualization Assignment : Channelling Hans!
 
-Recreated Features:
+Content
+-----------------------------
+1. Steps to run project
+2. Documentation
+	- Recreated Features
+	- Extra Features Included
+4. References
+
+
+Steps to run project:
+------------
+
+**Step 1:** Clone the Project or Download the project
+- Clone
+```
+git clone git@gitlab.com:akshat.rastogi/gapminder-d3js.git
+```
+- Download using this [link](https://gitlab.com/akshat.rastogi/gapminder-d3js.git)
+
+**Step 2:** Goto the directory and start localhost server to avoid cross origin error
+Example: To start python server:
+```
+python -m http.server
+```
+
+**Step 3:** View the page using the following link
+```
+http://localhost:8000/chanelling-hans.html
+```
+Note: The port number may change, check wherever your server is running 
+
+Documentation
+------------
+
+* Recreated Features:
 -----------------------------
 1. Bar chart representing the number of countries per region.
 2. Bar chart representing the number of countries with each government type.
@@ -11,7 +45,7 @@ NOTE:
 	- Both bar charts would be displayed to the right of the Gapminder World visualization.
 
 
-Extra Features Included:
+* Extra Features Included:
 -------------------------
 1. Apart from the bar charts in Mandatory Features (1) & (2), a third bar chart depicting the number of kilometres of Coastline per region.
 	- A control using checkboxes is provided, to select any two bar graphs that the user wishes to display along with the GapMinder World visualization.
@@ -39,5 +73,7 @@ Extra Features Included:
 References:
 ------------
 >[1] https://jsfiddle.net/umaar/FV5tm/
+
 >[2] https://www.w3schools.com/howto/howto_js_rangeslider.asp
+
 >[3] https://bl.ocks.org/
